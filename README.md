@@ -26,7 +26,7 @@ This section outlines the process of installing osTicket within a Microsoft Azur
 1.  
 
 <p>
-<img src="https://imgur.com/g1ceDUz.png" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/MD1TrW1.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 2.  
@@ -34,7 +34,7 @@ This section outlines the process of installing osTicket within a Microsoft Azur
 <br />
 
 <p>
-<img src="https://imgur.com/mmQSz6l.png" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/V9eSscS.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 3.  
@@ -42,7 +42,7 @@ This section outlines the process of installing osTicket within a Microsoft Azur
 <br />
 
 <p>
-<img src="https://imgur.com/KQWWoFw.png" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/59y8lwX.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 4.  
@@ -50,7 +50,7 @@ This section outlines the process of installing osTicket within a Microsoft Azur
 <br />
 
 <p>
-<img src="https://imgur.com/Yh6AdTM.png" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1SeLwqg.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 5.  
@@ -58,7 +58,7 @@ This section outlines the process of installing osTicket within a Microsoft Azur
 <br />
 
 <p>
-<img src="https://imgur.com/Yh6AdTM.png" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/uZAaXMt.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 6.  
@@ -66,7 +66,7 @@ This section outlines the process of installing osTicket within a Microsoft Azur
 <br />
 
 <p>
-<img src="https://imgur.com/Yh6AdTM.png" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Orjdzta.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 7.  
@@ -74,7 +74,7 @@ This section outlines the process of installing osTicket within a Microsoft Azur
 <br />
 
 <p>
-<img src="https://imgur.com/Yh6AdTM.png" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Ark3COu.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 8. 
@@ -82,6 +82,6 @@ This section outlines the process of installing osTicket within a Microsoft Azur
 <br />
 
 <p>
-<img src="https://imgur.com/Yh6AdTM.png" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/qoD7Gof.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
