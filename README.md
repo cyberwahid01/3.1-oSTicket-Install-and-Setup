@@ -3,7 +3,9 @@
 </p>
 
 <h1>Ticketing Systems: osTicket Install and Setup 🪟</h1>
-This section outlines the process of installing osTicket within a Microsoft Azure Virtual Machine, and setting up the necessary files and folders for osTicket to function correctly.
+This section outlines the process of installing osTicket within a Microsoft Azure Virtual Machine, and setting up the necessary files and folders for osTicket to function correctly. 
+
+(Link Back to Main Project Contents Page is at the Bottom of this Repo)
 <h2>Environments and Technologies Used</h2>
 
 - Lenovo Ideapad 5 Pro 16gb AMD Ryzen 7
@@ -85,3 +87,4 @@ This section outlines the process of installing osTicket within a Microsoft Azur
 <img src="https://imgur.com/qoD7Gof.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
